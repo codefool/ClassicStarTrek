@@ -96,119 +96,172 @@ many others.
 
 Here are listings of two dozen versions, written in BASIC:
 
-STTR1	        Mike Mayfield's original HP BASIC (extracted from HP tape 
-                image), 1972 [http://www.dunnington.info/public/startrek/STTR1]
+STTR1	        Mike Mayfield's original HP BASIC (extracted from HP tape image), 1972 
+    [http://www.dunnington.info/public/startrek/STTR1]
+    
 spacwr.bas	converted to DEC BASIC (with MAT statements) by David Ahl, 1973
                 [http://www.dunnington.info/public/startrek/spacwr.bas]
+                
 strtr1.bas	DEC BASIC-PLUS, probably from David Ahl, Part 1 (instructions)
                 [http://www.dunnington.info/public/startrek/strtr1.bas]
+                
 strtrk.bas	DEC BASIC-PLUS, probably from David Ahl, Part 2 (the game)
                 [http://www.dunnington.info/public/startrek/strtrk.bas]
+                
 spacwr.ba	OS-8 BASIC conversion for PDP-8, by Kay Fisher, about 1973/4
                 [http://www.dunnington.info/public/startrek/spacwr.ba]
+                
 spacwr.in	text file: instructions for spacwr.ba
                 [http://www.dunnington.info/public/startrek/spacwr.in]
+                
 TREK.BAS	adapted for RSTS-11 BASIC, by Aron Insinga, Project Delta, 20-JUL-73
                 [http://www.dunnington.info/public/startrek/TREK.BAS]
+                
 TREK.DOC	text file: Instructions for TREK.BAS
                 [http://www.dunnington.info/public/startrek/TREK.DOC]
+                
 UT-trek.basic	Hicks & Korp extended version for TAURUS, from UTexas, 5 April 1973
                 [http://www.dunnington.info/public/startrek/UT-Trek.basic]
+                
 BIGMES.orig	HP 2000 version (paper tape punched by Doug Quebbeman, 1976)
                 [http://www.dunnington.info/public/startrek/BIGMES.orig]
+                
 startrek.bas  	Lynn Cochran's version, common on Altairs, 1976
                 [http://www.dunnington.info/public/startrek/startrek.bas]
+                
 instr	text file: instructions for Lynn Cochran's version above
                 [http://www.dunnington.info/public/startrek/instr]
+                
 STARTREK.BAS  	A particularly small version (6K) for Palo Alto TINY BASIC, 1976
                 [http://www.dunnington.info/public/startrek/STARTREK.BAS]
+                
 STARTREK.DOC	text file: instructions for the TINY BASIC version above
                 [http://www.dunnington.info/public/startrek/STARTREK.DOC]
+                
 startrek.asc  	An even smaller version (under 6K) for PATB 3.1, 1976
                 [http://www.dunnington.info/public/startrek/startrek.asc]
+                
 tiny.doc	text file: Information to go with TINY BASIC 3.1
                 [http://www.dunnington.info/public/startrek/tiny.doc]
+                
 trek15	        One of the "Super Star Trek"s, this one for Intellec MDS, 1976
                 [http://www.dunnington.info/public/startrek/trek15]
+                
 newgame4.bas	3-dimensional version for a CDC 6000, V.1.1 April 06 1976
                 [http://www.dunnington.info/public/startrek/newgame4.bas]
+                
 newgame4.basic	As above but translated to PR1ME BASIC/VM
                 [http://www.dunnington.info/public/startrek/newgame4.basic]
+                
 startrek.txt	BASIC-80 for CP/M (Microsoft BASIC), from Creative Computing, 1978
                 [http://www.dunnington.info/public/startrek/startrek.txt]
+                
 sttr.bs5	Ralph Hopkin's Sol-20 BASIC/5 version, late 1970s
                 [http://www.dunnington.info/public/startrek/sttr.bs5]
+                
 COMBT.ECB	Ralph Hopkin's COMBAT for Sol-20 Extended Cassette BASIC, February 1982
                 [http://www.dunnington.info/public/startrek/COMBT.ECB]
+                
 CMDS.ECB	Instructions for COMBAT
                 [http://www.dunnington.info/public/startrek/CMDS.ECB]
+                
 AppleStarTrek	Bob Bishop's Apple Star-Trek for Apple INTEGER BASIC, 1976
                 [http://www.dunnington.info/public/startrek/AppleStarTrek]
+                
 AppleStarTrek.txt	text file: rules for Apple Star-Trek; retyped from a scanned copy
                 [http://www.dunnington.info/public/startrek/AppleStarTrek.txt]
+                
 APPLETREK	INTEGER BASIC version for Apple II, by W SANDER 1/11/78
                 (Has some machine code on the end)
                 [http://www.dunnington.info/public/startrek/APPLETREK]
+                
 Star Trek 3.3	APPLESOFT version for Apple II, author/date unknown
                 [http://www.dunnington.info/public/startrek/StarTrek3.3]
+                
 trek.bas	From Ensign Software, possibly for a Tandy Color Computer, 1982
                 [http://www.dunnington.info/public/startrek/trek.bas]
+                
 strek	        BBC BASIC, an enhanced version for the BBC Microcomputer, about 1983
                 [http://www.dunnington.info/public/startrek/strek]
+                
 GALAXY	        A thinly-disguised AcornSoft version of Star Trek for the BBC Micro, 1982
                 [http://www.dunnington.info/public/startrek/GALAXY]
+                
 STREK	        Exidy Sorcerer version, adapted from Practical Computing around 1980
                 [http://www.dunnington.info/public/startrek/STREK]
+                
 TREK73	        William K. Char's original HP 2000 BASIC version, 26-NOV-1973
                 [http://www.dunnington.info/public/startrek/TREK73]
+                
 
 Here are a few in other languages:
 
 startrek.c	Chris Nystrom's 'C' port of Mayfield-style StarTrek, 1995
                 [http://www.dunnington.info/public/startrek/startrek.c]
+                
 startrek.doc	text file: Instructions for Chris Nystrom's version
                 [http://www.dunnington.info/public/startrek/startrek.doc]
+                
 trek.tar.gz	gzipped tar file: Eric Allman's C version for Unix, 1993 (originally 1976)
                 [http://www.dunnington.info/public/startrek/trek.tar.gz]
+                
 trekdocs.tar.gz gzipped tar file: documentation to Eric Allman's C version, as nroff source
                 [http://www.dunnington.info/public/startrek/trekdocs.tar.gz]
+                
 spacwr.for	Mike Mayfield's version, DEC FORTRAN-IV, by Kay Fisher, 1974
                 [http://www.dunnington.info/public/startrek/spacwr.for]
+                
 sttr.ftn	Mike Mayfield's version, CDC FORTRAN (author/date unknown)
                 [http://www.dunnington.info/public/startrek/sttr.ftn]
+                
 startrek.exe	MS-DOS TREKWAR ver. 5.7, compiled Microsoft BASIC, by Stan Warman
                 [http://www.dunnington.info/public/startrek/startrek.exe]
+                
 TREK.PAS	VAX/VMS Pascal, from Don Kooker, 1988
                 [http://www.dunnington.info/public/startrek/TREK.PAS]
+                
 ctrek.cob	wow, a COBOL version!  By Kurt Wilhelm, 1979
                 [http://www.dunnington.info/public/startrek/ctrek.cob]
+                
 trk80	        Processor Technology's TREK80. A binary file, but the Intel HEX is here.
                 [http://www.dunnington.info/public/startrek/trk80]
+                
 trk80.pdf	PDF file: instructions for Processor Technology's TREK80
                 [http://www.dunnington.info/public/startrek/trk80.pdf]
+                
 startrek.lisp	John Thingstad's LISP version of David Ahl's Super Star Trek
                 [http://www.dunnington.info/public/startrek/startrek.lisp]
+                
 startrek.files	Help, map, and pic(ture) files which accompany startrek.lisp
                 [http://www.dunnington.info/public/startrek/startrek.files]
+                
 startrek	is like a simplified TREK73, written in IMP, an Algol-like language used 
                 at The University of Edinburgh (and elsewhere). Probably written by Dave 
                 Briggs circa 1974; rescued from oblivion by Graham Toal.
                 [http://www.dunnington.info/public/startrek/gamespd_briggs.txt]
+                
 Palm Trek	for the Palm Pilot (with CBASPAD 0.84 or higher) by Michael Baker
                 [http://www.dunnington.info/public/startrek/palmtrek11.zip]
+                
 ztrek.z5	ZTrek, a Super Star Trek executable written in Z-code by John Menichelli
                 [http://www.dunnington.info/public/startrek/ztrek.z5]
+                
 ztrek.inf	the ZTrek Inform source, ported from Chris Nystrom's C version
                 [http://www.dunnington.info/public/startrek/ztrek.inf]
+                
 st.html	        Super Star Trek as a Java applet, by Jim Bat, December 2003
                 Similar to TREK15, based on Star Trek 77 in FORTRAN
                 [http://www.dunnington.info/public/startrek/st.html]
+                
 st.jar	        Java Archive for Jim Bat's applet
                 [http://www.dunnington.info/public/startrek/st.jar]
+                
 StarTrek.doc.html HTML document: instructions to go with Jim Bat's Java applet
                 [http://www.dunnington.info/public/startrek/StarTrek.doc.html]
+                
 sst	        a Super Star Trek executable for the Sharp Zaurus, by Mark Hart
                 [http://www.dunnington.info/public/startrek/sst.zaurus]
+                
 sst.doc	        text file: instructions for Zaurus Super Star Trek
                 [http://www.dunnington.info/public/startrek/sst.doc]
 
@@ -233,12 +286,15 @@ idea, take a look at the People's Computer Company Alumni Site
 [http://sumeru.stanford.edu/pcc/], especially the page for the Games Archive
 [http://sumeru.stanford.edu/pcc/archive.html#GamesArchive].
 
-Other places to find Star Trek listings and information include Maury Markowitz's 
-Star Trek page [http://www3.sympatico.ca/maury/games/space/star_trek.html], Chris 
-Nystrom's Classic Computer Game: Star Trek page 
-[http://www.cactus.org/~nystrom/startrek.html] the AI Attic 
-[ftp://ftp.cc.utexas.edu/pub/AI_ATTIC/Programs/Classic/], Kermit Murray's page 
-[http://ch309c.chem.lsu.edu/~kmurray/other/trek73/] which has links to other 
+Other places to find Star Trek listings and information include 
+
+* Maury Markowitz's Star Trek page [http://www3.sympatico.ca/maury/games/space/star_trek.html], 
+
+* Chris Nystrom's Classic Computer Game: Star Trek page [http://www.cactus.org/~nystrom/startrek.html] 
+
+* the AI Attic [ftp://ftp.cc.utexas.edu/pub/AI_ATTIC/Programs/Classic/], 
+
+* Kermit Murray's page [http://ch309c.chem.lsu.edu/~kmurray/other/trek73/] which has links to other 
 versions, and any number of sites you'll find if you search for "classic basic 
 games", or any of the authors' names you see above.
 
